@@ -1,0 +1,10 @@
+{
+  "manifest_version":3,
+  "name":"Daily words",
+  "author":"parallel-cast",
+  "version":"1.0.1",
+  "description":"Learn new word and it's meaning on EveryDay",
+  "chrome_url_overrides":{
+    "newtab":"index.html"
+  }
+}
